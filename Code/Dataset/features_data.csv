@@ -1,0 +1,129 @@
+,Feature Name,UKB Number
+0,Sex,31
+1,Year of birth,34
+2,Salad / raw vegetable intake,1299
+3,Fresh fruit intake,1309
+4,Processed meat intake,1349
+5,Beef intake,1369
+6,Cheese intake,1408
+7,"Seen doctor (GP) for nerves, anxiety, tension or depression",2090
+8,"Seen a psychiatrist for nerves, anxiety, tension or depression",2100
+9,Age when periods started (menarche),2714
+10,Had menopause,2724
+11,Number of live births,2734
+12,Age at first live birth,2754
+13,"Ever had stillbirth, spontaneous miscarriage or termination	",2774
+14,Ever taken oral contraceptive pill,2784
+15,Ever had hysterectomy,3591
+16,Length of menstrual cycle,3710
+17,Menstruating today,3720
+18,Number of spontaneous miscarriages,3839
+19,Number of pregnancy terminations,3849
+20,"Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",6152
+21,"Medication for pain relief, constipation, heartburn",6154
+22,"Medication for smoking cessation, constipation, heartburn, allergies (pilot)",10005
+23,Age at first episode of depression,20433
+24,Age at last episode of depression,20434
+25,Depression possibly related to childbirth,20445
+26,Ever had prolonged feelings of sadness or depression,20446
+27,Feelings of tiredness during worst episode of depression,20449
+28,Recent easy annoyance or irritability,20505
+29,Recent feelings of depression,20510
+30,Recent trouble relaxing,20515
+31,Recent restlessness,20516
+32,Recent feelings of tiredness or low energy,20519
+33,Recent worrying too much about different things,20520
+34,Body mass index (BMI),21001
+35,Weight,21002
+36,Age at recruitment,21022
+37,Ever diagnosed with IBS,21024
+38,Discomfort/pain occurring only during menstrual bleed,21026
+39,"Number of weeks absent from work due to IBS, in the last year",21045
+40,Number of weeks (in the last year) at work suffering because of IBS,21047
+41,Degree bothered by menstrual cramps or other problems with period in the last 3 months,21050
+42,Ever been offered/sought treatment for anxiety,21062
+43,Ever been offered/sought treatment for depression,21063
+44,Family history of IBS,21065
+45,Doctor diagnosed asthma,22127
+46,Body fat percentage,23099
+47,Fat,26008
+48,Vitamin C,26023
+49,Vitamin E,26028
+50,Vitamin D,26029
+51,Lactose,26048
+52,Beef,26066
+53,Citrus,26091
+54,Other fruit,26093
+55,Currently suffering from back pain,28639
+56,Currently suffering from mild fatigue,28696
+57,Currently suffering from severe fatigue,28699
+58,Currently suffering from a new allergy or intolerance,28711
+59,"Currently suffering from problems relating to mood, anxiety and emotions",28726
+60,"Extent affected by problems relating to mood, anxiety and emotions",28728
+61,Mental health conditions ever diagnosed by a professional,29000
+62,Recent feelings or nervousness or anxiety,29058
+63,Red blood cell (erythrocyte) count,30010
+64,Haemoglobin concentration,30020
+65,Haematocrit percentage,30030
+66,Oestradiol,30800
+67,Type of cancer: ICD10,40006
+68,Operative procedures - OPCS4 (caesarean),41272
+69,Ever had fibromyalgia syndrome,120009
+70,Ever had migraine,120016
+71,Ever had pelvic pain,120017
+72,Back pain in last three months and rating of pain,120026
+73,Hip pain in last three months and rating of pain,120028
+74,Pain or cramps in lower abdomen in past six months,120043
+75,Depression in past six months,120044
+76,"Persistent or recurrent tiredness, weariness or fatigue that has lasted for at least 6 months",120114
+77,Date D50 first reported (iron deficiency anaemia),130622
+78,Date D51 first reported (vitamin b12 deficiency anaemia),130624
+79,Date D52 first reported (folate deficiency anaemia),130626
+80,Date D59 first reported (acquired haemolytic anaemia),130638
+81,Date E02 first reported (subclinical iodine-deficiency hypothyroidism),130694
+82,Date E03 first reported (other hypothyroidism),130696
+83,Date E28 first reported (ovarian dysfunction),130736
+84,Date E34 first reported (other endocrine disorders),130746
+85,Date G43 first reported (migraine),131052
+86,Date G44 first reported (other headache syndromes),131054
+87,Date K58 first reported (irritable bowel syndrome),131638
+88,Date M32 first reported (systemic lupus erythematosus),131894
+89,Date N80 first reported (endometriosis),132122
+90,Source of report of N80 (endometriosis),132123
+91,Date N94 first reported (pain and other conditions associated with female genital organs and menstrual cycle),132150
+92,Date N97 first reported (female infertility),132156
+93,Source of report of N97 (female infertility),132157
+94,Date O03 first reported (spontaneous abortion),132168
+95,Date O26 first reported (maternal care for other conditions predominantly related to pregnancy) (complications),132206
+96,Date O44 first reported (placenta praevia),132234
+97,Date O60 first reported (preterm delivery),132244
+98,Date O82 first reported (single delivery by caesarean section),132280
+99,"Date N83 first reported (noninflammatory disorders of ovary, fallopian tube and broad ligament)",132128
+100,Date N70 first reported (salpingitis and oophoritis),132106
+101,Date N73 first reported (other female pelvic inflammatory diseases),132112
+102,"Date N92 first reported (excessive, frequent and irregular menstruation)",132146
+103,Date E28 first reported (ovarian dysfunction),130736
+104,Date K51 first reported (ulcerative colitis),131628
+105,Date K50 first reported (crohn's disease [regional enteritis]),131626
+106,Age at menopause (last menstrual period),3581
+107,Stomach/abdominal pain for 3+ months,3741
+108,Date K58 first reported (irritable bowel syndrome),131638
+109,Date K59 first reported (other functional intestinal disorders),131640
+110,Date K52 first reported (other non-infective gastro-enteritis and colitis),131630
+111,Stools looser when abdominal discomfort/pain started,21031
+112,"Number of weeks absent from work due to IBS, in the last year",21045
+113,Age at cancer diagnosis,40008
+114,Age diabetes diagnosed,2976
+115,Age at first live birth,2754
+116,Age at last live birth,2764
+117,Age at hysterectomy,2824
+118,Age started oral contraceptive pill,2794
+119,Age when last used oral contraceptive pill,2804
+120,Degree bothered by menstrual cramps or other problems with period in the last 3 months,21050
+121,Date N81 first reported (female genital prolapse),132124
+122,Date N84 first reported (polyp of female genital tract),132130
+123,Date O70 first reported (perineal laceration during delivery),132264
+124,Date K35 first reported (acute appendicitis),131604
+125,Date N39 first reported (other disorders of urinary system),132070
+126,Date M54 first reported (dorsalgia),131928
+127,Date O00 first reported (ectopic pregnancy),132162
